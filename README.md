@@ -3,6 +3,10 @@
 A functional task management dashboard built with Vue 3 Composition API and Vue Router.
 It focuses on reactive state management, component communication, and clean project structure.
 
+## Repository
+
+https://github.com/HarryNguyen2662/flowboard-vue-toan-nguyen
+
 ## What this app includes
 
 - Task creation with `title`, `priority` (`High`, `Medium`, `Low`), and `category`.
